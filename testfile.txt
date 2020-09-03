@@ -1,1 +1,2 @@
 First commit to repository
+Added new line
